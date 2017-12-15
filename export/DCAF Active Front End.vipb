@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-12-15 10:39:57" Modified_Date="2017-12-15 10:55:05" Creator="Brian Kindinger" Comments="" ID="9520790e9526f28bd04a83454e4367ef">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-12-15 10:39:57" Modified_Date="2017-12-15 11:05:11" Creator="Brian Kindinger" Comments="" ID="ec34f94a3707d6c5eb2e162b143d85ff">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_DCAF_Active_Front_End</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -35,7 +35,7 @@
       <Description>DCAF module to support Active Front End control module.</Description>
       <Copyright/>
       <Packager/>
-      <URL/>
+      <URL>https://github.com/LabVIEW-Power-Electronic-Control/ActiveFrontEndModule</URL>
       <Release_Notes>[BLK 12/15]  Initial build</Release_Notes>
     </Description>
     <Destinations>
@@ -116,7 +116,7 @@
         <Namespace/>
       </Namespace_Overrides>
     </Source_Files>
-    <License_Agreement_Filepath/>
+    <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
