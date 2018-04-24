@@ -26,7 +26,7 @@
 		<Item Name="ActiveFrontEndModule editor node.lvclass" Type="LVClass" URL="../editor node/ActiveFrontEndModule editor node.lvclass"/>
 		<Item Name="ActiveFrontEndModule runtime.lvclass" Type="LVClass" URL="../module/execution/ActiveFrontEndModule runtime.lvclass"/>
 		<Item Name="ActiveFrontEndModule tests.lvlib" Type="Library" URL="../Test/ActiveFrontEndModule tests.lvlib"/>
-		<Item Name="AFE_interface.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ActiveFrontEnd/AFE_Interface/AFE_interface.lvlib"/>
+		<Item Name="AFE_interface.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ActiveFrontEnd/AFE_interface.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>
@@ -138,14 +138,14 @@
 				<Item Name="TryGetGraphVizPath.vi" Type="VI" URL="/&lt;vilib&gt;/NI/DCAF/Tag Editor Core/Utilities/External tools/TryGetGraphVizPath.vi"/>
 				<Item Name="sizeaction.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/sizeaction.ctl"/>
 				<Item Name="Format Numeric String.vi" Type="VI" URL="/&lt;vilib&gt;/NI/DCAF/Tag Editor Core/Table API/Helpers/Format Numeric String.vi"/>
-				<Item Name="ActiveFrontEnd.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ActiveFrontEnd/AFE/ActiveFrontEnd.lvlib"/>
-				<Item Name="Range.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ActiveFrontEnd/AFE/Range.ctl"/>
 				<Item Name="FPGA manager.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Tag Bus Module Framework/FPGA manager/FPGA manager.lvlib"/>
 				<Item Name="FPGA_FGV_action.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/DCAF/addons/InstructionFrameworkSupport/FPGA_FGV_action.ctl"/>
 				<Item Name="InstructionFrameworkFGV.vi" Type="VI" URL="/&lt;vilib&gt;/NI/DCAF/addons/InstructionFrameworkSupport/InstructionFrameworkFGV.vi"/>
 				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/LVJSON.lvlib"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="ActiveFrontEnd.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ActiveFrontEnd/AFE/ActiveFrontEnd.lvlib"/>
+				<Item Name="Range.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ActiveFrontEnd/AFE/Range.ctl"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niInstr Instruction Target v1 Host.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/Host/Instruction Target/niInstr Instruction Target v1 Host.lvclass"/>
